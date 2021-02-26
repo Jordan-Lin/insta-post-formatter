@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/insta-post-formatter/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/insta-post-formatter/static/js/main.9bb55c79.chunk.js",
+    "main.js.map": "/insta-post-formatter/static/js/main.9bb55c79.chunk.js.map",
+    "runtime-main.js": "/insta-post-formatter/static/js/runtime-main.3359c49c.js",
+    "runtime-main.js.map": "/insta-post-formatter/static/js/runtime-main.3359c49c.js.map",
+    "static/js/2.1e7607e8.chunk.js": "/insta-post-formatter/static/js/2.1e7607e8.chunk.js",
+    "static/js/2.1e7607e8.chunk.js.map": "/insta-post-formatter/static/js/2.1e7607e8.chunk.js.map",
+    "static/js/3.a0e8e31d.chunk.js": "/insta-post-formatter/static/js/3.a0e8e31d.chunk.js",
+    "static/js/3.a0e8e31d.chunk.js.map": "/insta-post-formatter/static/js/3.a0e8e31d.chunk.js.map",
+    "index.html": "/insta-post-formatter/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/insta-post-formatter/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.1e7607e8.chunk.js.LICENSE.txt": "/insta-post-formatter/static/js/2.1e7607e8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/insta-post-formatter/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3359c49c.js",
+    "static/js/2.1e7607e8.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.9bb55c79.chunk.js"
+  ]
+}
